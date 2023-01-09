@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/garethhunt/docker-11ty#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^1.0.2"
   }
 }
